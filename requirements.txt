@@ -1,0 +1,5 @@
+django==2.2
+requests==2.26
+djangorestframework==3.12.4
+celery==5.1
+django-filter==2.4.0
