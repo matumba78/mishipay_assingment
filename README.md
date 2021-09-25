@@ -1,4 +1,4 @@
-##Description
+## Description
 * This is a web application which retrieves and stores product information from
 the Shopify API in a database, and allows users to place orders that are sent to Shopify.
 
